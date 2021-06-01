@@ -2,5 +2,5 @@
 
 Olá, bem vindo ao meu livro de receitas <3 :heart_decoration:
 
-- Strogonoff de frango
-- Pavê
+- Strogonoff de frango (teste)
+- Projeto_instagram
